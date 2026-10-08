@@ -1,0 +1,24 @@
+# macOS 构建产物
+build/
+*.app
+*.app.dSYM/
+DerivedData/
+
+# 编译中间产物
+*.o
+*.swiftmodule
+*.swiftsourceinfo
+DiskEjector
+
+# macOS
+.DS_Store
+._*
+
+# 编辑器
+.vscode/
+.idea/
+*.xcodeproj
+*.xcworkspace
+
+# 日志
+*.log
