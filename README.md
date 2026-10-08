@@ -31,13 +31,13 @@ macOS 自带的 Finder「推出」偶尔会失败，而网上常见的 Shell 脚
 ```
 一键弹出所有外接硬盘
 ─────────────────────
-● M2.SSD.512.Mac          ← ● 已挂载 / ○ 已弹出
+● MyDrive          ← ● 已挂载 / ○ 已弹出
     设备：/dev/disk4
     接口：USB
-    型号：RTL9210B-CG
-    容量：总容量 512.11 GB　可用 84.2 GB
-    已用：84%
-    卷：M2.SSD.512.Mac　已挂载于 /Volumes/M2.SSD.512.Mac
+    型号：USB3 Portable SSD
+    容量：总容量 1 TB　可用 620 GB
+    已用：40%
+    卷：MyDrive　已挂载于 /Volumes/MyDrive
     ──────────────
     弹出此硬盘
 ─────────────────────

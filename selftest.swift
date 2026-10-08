@@ -1,8 +1,9 @@
 import Foundation
 
 // 命令行层验证（不启动 UI，不执行弹出）
+// 用法： swiftc -o selftest selftest.swift && ./selftest
 // 校验点：
-//  1) 正确识别真实外部物理盘 M2.SSD.512.Mac
+//  1) 正确识别真实外部物理盘（能报出盘名、接口、容量）
 //  2) 排除 DMG 磁盘镜像 与 内部盘
 //  3) 确认最终 eject 命令目标正确
 
